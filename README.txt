@@ -3,9 +3,6 @@ User name: 1
 Password: abc
 
 Designed and coded by
-Nitesh Sinha
-Sachindra Sukul
-Rahul Gautam
-Tauheed Ahmed
-Under the guidance of Mr. R. N. Tripathi(H.O.D)
-Mr. Vidya Bhaskar Jaiswal(Lect.)
+NNADI HENRY IFEANYI
+nnadihenry92@gmail.com
++2348139264713
