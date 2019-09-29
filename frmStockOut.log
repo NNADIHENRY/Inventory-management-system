@@ -1,0 +1,8 @@
+Line 23: Class MSComCtl2.DTPicker of control dtSalDate was not a loaded control class.
+Line 96: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 29: The property name _ExtentX in dtSalDate is invalid.
+Line 30: The property name _ExtentY in dtSalDate is invalid.
+Line 31: The property name _Version in dtSalDate is invalid.
+Line 32: The property name CustomFormat in dtSalDate is invalid.
+Line 33: The property name Format in dtSalDate is invalid.
+Line 34: The property name CurrentDate in dtSalDate is invalid.

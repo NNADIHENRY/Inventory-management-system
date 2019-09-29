@@ -1,0 +1,8 @@
+Line 94: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 576: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 582: The property name _ExtentX in DTPicker1 is invalid.
+Line 583: The property name _ExtentY in DTPicker1 is invalid.
+Line 584: The property name _Version in DTPicker1 is invalid.
+Line 594: The property name CustomFormat in DTPicker1 is invalid.
+Line 595: The property name Format in DTPicker1 is invalid.
+Line 596: The property name CurrentDate in DTPicker1 is invalid.

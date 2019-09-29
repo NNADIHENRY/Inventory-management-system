@@ -1,0 +1,8 @@
+Line 17: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 67: Class MSComCtl2.DTPicker of control dtPurDate was not a loaded control class.
+Line 73: The property name _ExtentX in dtPurDate is invalid.
+Line 74: The property name _ExtentY in dtPurDate is invalid.
+Line 75: The property name _Version in dtPurDate is invalid.
+Line 76: The property name CustomFormat in dtPurDate is invalid.
+Line 77: The property name Format in dtPurDate is invalid.
+Line 78: The property name CurrentDate in dtPurDate is invalid.
